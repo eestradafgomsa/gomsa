@@ -1,0 +1,4 @@
+[submodule "gomsa"]
+	path = gomsa
+    url = https://git.vauxoo.com/vauxoo/gomsa
+    branch = 15.0
