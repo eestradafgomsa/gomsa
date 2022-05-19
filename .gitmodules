@@ -2,3 +2,7 @@
 	path = gomsa
 	url = git@git.vauxoo.com:vauxoo/gomsa.git
 	branch = 15.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 15.0
